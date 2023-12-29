@@ -22,7 +22,7 @@ function App() {
       <h2 className='text-[16px] leading-[24px] font-[500] '>
         Registration Date
     </h2>
-    <input type="date" className='focus:outline-none py-[10px] px-[10px] border-[1px] border-[solid]
+    <input type="date" className='focus:outline-none w-[100%] bg-white py-[10px] px-[10px] border-[1px] border-[solid]
      text-[16px] leading-[24px] font-[500] placeholder:text-[#7C7C7C] border-blue-300 rounded-[2px]' />
      <h2 className='text-[12px] leading-[18px] font-[400] text-gray-500'>Date</h2>
       </div>
@@ -55,7 +55,7 @@ function App() {
       <h2 className='text-[16px] leading-[24px] font-[500] '>
         Date of Birth
     </h2>
-    <input type="date" className='focus:outline-none py-[10px] px-[10px] border-[1px] border-[solid]
+    <input type="date" className='focus:outline-none py-[10px] w-[100%] bg-white  px-[10px] border-[1px] border-[solid]
      text-[16px] leading-[24px] font-[500] placeholder:text-[#7C7C7C] border-blue-300 rounded-[2px]' />
      <h2 className='text-[12px] leading-[18px] font-[400] text-gray-500'>Date</h2>
       </div>
